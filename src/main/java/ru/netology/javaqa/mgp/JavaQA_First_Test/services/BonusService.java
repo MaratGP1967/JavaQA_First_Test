@@ -1,4 +1,4 @@
-package ru.netology.javaqa.mgp;
+package ru.netology.javaqa.mgp.JavaQA_First_Test.services;
 
 public class BonusService {
     public long calculate(long amount, boolean registered) {
